@@ -25,7 +25,7 @@ else
     sudo apt-get update
     sudo apt-get install jenkins
     sudo systemctl restart jenkins
-
+fi
 echo "Installed Jenkins.."
 
 
